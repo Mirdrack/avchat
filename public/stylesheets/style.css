@@ -1,0 +1,32 @@
+body {
+  background-color: #790404 !important;
+}
+textarea {
+  resize: none;
+}
+#mainContainer {
+  background-color: #fff;
+}
+#chatZone {
+  padding-left: 0;
+}
+#chatMessageBox {
+  min-height: 450px;
+  border: 1px solid #eaeaea;
+  padding-left: 20px;
+}
+#chatInputBox {
+  background-color: #eaeaea;
+  padding: 5px;
+  min-height: 78px;
+}
+#sendBtn {
+  height: 65px;
+}
+#usersList {
+  border: 1px solid #eaeaea;
+  min-height: 528px;
+}
+.footer {
+  border-top-style: solid;
+}
