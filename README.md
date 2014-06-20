@@ -13,19 +13,19 @@ in order to create a private chat protected by password
 
 
 About the Name
-==============
+--------------
 
 I choose the name because is the nickname of my favorite artist (Avril Lavigne) 
 
 
 To do's
-=======
+-------
 Allow social logins
 Improve visual style of the chat
 Edit profile edit section
 
 
 About me and the this repository
-================================
+--------------------------------
 This is my first repo, please take that in consideration
 and if you want contact me you can send me a tweet [@mirdrack](https://twitter.com/Mirdrack)
